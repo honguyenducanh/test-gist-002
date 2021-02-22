@@ -8,6 +8,7 @@ public static void main(String[]args){
         int a = 5; int b = 6;
         int c = a + b;
         System.out.print(c);
-
+        String name = "Hồ Nguyễn Đức Anh ";
+        System.out.print(name);
         }
 }
