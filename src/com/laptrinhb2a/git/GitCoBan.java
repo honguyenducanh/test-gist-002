@@ -10,5 +10,6 @@ public static void main(String[]args){
         System.out.print(c);
         String name = "Hồ Nguyễn Đức Anh ";
         System.out.print(name);
+        System.out.print("ahihi cố ý để như vậy đấy");
         }
 }
